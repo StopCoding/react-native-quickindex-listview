@@ -1,0 +1,24 @@
+{
+    "name": "react-native-quickindex-listview",
+    "version": "0.0.1",
+    "description": "A listview component with quick index.",
+    "main": "index.js",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/StopCoding/react-native-quickindex-listview.git"
+    },
+
+    "author": "StopCoding <xiaoyanmiche@163.com>",
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "listview",
+        "quick-index"
+    ],
+    "dependencies": {
+    }
+}
